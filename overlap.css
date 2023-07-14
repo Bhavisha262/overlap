@@ -1,0 +1,59 @@
+.overlap{
+    position: relative;
+}
+
+.image1{
+    position: absolute;
+    margin: 50px 50px;
+    height: 250px;
+    width: 250px;
+    z-index: 20;
+    border: 2px solid black;
+
+}
+
+.image2{
+    position: absolute;
+    margin: 50px 50px;
+    height: 350px;
+    width: 350px;
+    z-index: 17;
+    border: 2px solid black;
+
+}
+.image3{
+    position: absolute;
+    margin: 50px 50px;
+    height: 350px;
+    width: 350px;
+    z-index: 11;
+    right: 5%;
+    border: 2px solid black;
+
+}
+.image4{
+    position: absolute;
+    margin: 50px 150px;
+    height: 400px;
+    width: 400px;
+    z-index: 5;
+    border: 2px solid black;
+
+
+
+}
+.image5{
+    position: absolute;
+    margin: 200px 50px;
+    height: 350px;
+    width: 350px;
+    z-index: 1;
+    border: 2px solid black;
+
+}
+
+h1{ 
+    color:brown;
+    background-color: bisque;
+    width: fit-content;
+}
